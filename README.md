@@ -1,6 +1,6 @@
 # Smart Railway Ticket Verification Prototype
 
-See blog how this works and requirements : (In progress)
+See blog how this works and requirements : https://shreyanshagarwal.hashnode.dev/smart-railway-ticket-verification-using-raspberry-pi
 
 ### Understanding file structure
 
